@@ -1,0 +1,18 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+<Groups>
+	<Group>
+		<groupName>Habrahabr</groupName>
+        <groupType>IT</groupType>
+        <groupPrivacy>Page</groupPrivacy>
+    </Group>
+    <Group>
+        <groupName>The Brain</groupName>
+        <groupType>Scientific</groupType>
+        <groupPrivacy>Group</groupPrivacy>
+    </Group>
+    <Group>
+        <groupName>The Mind</groupName>
+        <groupType>Scientific</groupType>
+        <groupPrivacy>Page</groupPrivacy>
+    </Group>
+</Groups>
